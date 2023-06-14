@@ -1,0 +1,15 @@
+C:\Programs\C#Programs\BranchesAndLoops\bin\Debug\net7.0\BranchesAndLoops.exe
+C:\Programs\C#Programs\BranchesAndLoops\bin\Debug\net7.0\BranchesAndLoops.deps.json
+C:\Programs\C#Programs\BranchesAndLoops\bin\Debug\net7.0\BranchesAndLoops.runtimeconfig.json
+C:\Programs\C#Programs\BranchesAndLoops\bin\Debug\net7.0\BranchesAndLoops.dll
+C:\Programs\C#Programs\BranchesAndLoops\bin\Debug\net7.0\BranchesAndLoops.pdb
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.csproj.AssemblyReference.cache
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.dll
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\refint\BranchesAndLoops.dll
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.pdb
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Programs\C#Programs\BranchesAndLoops\obj\Debug\net7.0\ref\BranchesAndLoops.dll
